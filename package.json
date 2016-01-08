@@ -1,0 +1,34 @@
+{
+  "name": "redux-resource",
+  "version": "0.0.1",
+  "description": "Redux, without the boilerplate.",
+  "main": "lib/resource.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morgante/redux-resource"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "api"
+  ],
+  "author": {
+    "name": "Morgante Pell"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morgante/redux-resource/issues"
+  },
+  "homepage": "https://github.com/morgante/redux-resource",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "readme": "# redux-resource\n",
+  "readmeFilename": "README.md",
+  "_id": "redux-resource@0.0.1",
+  "_shasum": "a22424aee676bce884a1d13a4431f7a972a6bae2",
+  "_resolved": "git+https://github.com/morgante/redux-resource#438c43bc39e95abd4a2a6eaa68518f40f3eb47c7",
+  "_from": "redux-resource@git+https://github.com/morgante/redux-resource"
+}
