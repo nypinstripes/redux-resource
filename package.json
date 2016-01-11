@@ -1,30 +1,33 @@
 {
-	"name": "redux-resource",
-	"version": "0.0.1",
-	"description": "Redux, without the boilerplate.",
-	"main": "lib/resource.js",
-	"scripts": {
-		"build": "scripts/build",
-		"test": "scripts/test",
-		"lint": "scripts/lint",
-		"test-cov": "scripts/test-cov"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/morgante/redux-resource"
-	},
-	"keywords": [
-		"redux",
-		"react",
-		"api"
-	],
-	"author": "Morgante Pell",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/morgante/redux-resource/issues"
-	},
-	"homepage": "https://github.com/morgante/redux-resource",
-	"devDependencies": {},
-	"dependencies": {},
-	"peerDependencies": {}
+  "name": "redux-resource",
+  "version": "0.0.1",
+  "description": "Redux, without the boilerplate.",
+  "main": "lib/resource.js",
+  "scripts": {
+    "build": "scripts/build",
+    "test": "scripts/test",
+    "lint": "scripts/lint",
+    "test-cov": "scripts/test-cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morgante/redux-resource"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "api"
+  ],
+  "author": "Morgante Pell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morgante/redux-resource/issues"
+  },
+  "homepage": "https://github.com/morgante/redux-resource",
+  "devDependencies": {},
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.0",
+    "qs": "^6.0.1"
+  },
+  "peerDependencies": {}
 }
