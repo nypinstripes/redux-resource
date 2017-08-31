@@ -1,6 +1,6 @@
 {
   "name": "redux-resource",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Redux, without the boilerplate, es6, lodash4.",
   "main": "lib/resource.js",
   "scripts": {
