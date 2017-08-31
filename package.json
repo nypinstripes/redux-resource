@@ -1,7 +1,7 @@
 {
   "name": "redux-resource",
-  "version": "0.0.2",
-  "description": "Redux, without the boilerplate.",
+  "version": "0.0.3",
+  "description": "Redux, without the boilerplate, es6, lodash4.",
   "main": "lib/resource.js",
   "scripts": {
     "build": "scripts/build",
@@ -11,23 +11,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/morgante/redux-resource"
+    "url": "https://github.com/nypinstripes/redux-resource"
   },
   "keywords": [
     "redux",
     "react",
     "api"
   ],
-  "author": "Morgante Pell",
+  "author": "ERIC WEXLER",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/morgante/redux-resource/issues"
+    "url": "https://github.com/nypinstripes/redux-resource/issues"
   },
-  "homepage": "https://github.com/morgante/redux-resource",
-  "devDependencies": {},
+  "homepage": "https://github.com/nypinstripes/redux-resource",
   "dependencies": {
     "isomorphic-fetch": "^2.2.0",
     "qs": "^6.0.1"
   },
+  "devDependencies": {},
   "peerDependencies": {}
 }
